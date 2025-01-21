@@ -1,0 +1,37 @@
+# Qt Creator files
+*.user
+*.creator
+*.creator.user
+*.config
+*.files
+*.includes
+
+# Build directories
+build-*/
+out-*/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+
+# Makefile and other generated files
+Makefile
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.pdb
+
+# QMake files
+*.pro.user*
+qmake.stash
+
+# Other common files to ignore
+*.log
+*.tmp
+*.swp
+*.swo
