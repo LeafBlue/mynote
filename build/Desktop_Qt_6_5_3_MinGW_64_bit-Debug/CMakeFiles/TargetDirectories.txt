@@ -1,0 +1,9 @@
+D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/mynote.dir
+D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/mynote_autogen_timestamp_deps.dir
+D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/mynote_autogen.dir

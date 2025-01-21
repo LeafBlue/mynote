@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d51fc7f05209f793deb9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mynote",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mynote::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mynote-Debug-e50ca8a3ba3c048d5a56.json",
+					"name" : "mynote",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mynote_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mynote_autogen-Debug-cfca41613e2f3e86d855.json",
+					"name" : "mynote_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mynote_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mynote_autogen_timestamp_deps-Debug-07b33022a6268a4862b8.json",
+					"name" : "mynote_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTProject/mynote/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "D:/QTProject/mynote"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
